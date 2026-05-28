@@ -1,0 +1,114 @@
+# 每日财经日报
+
+日期：{{ date }}
+
+> 本日报由自动化程序根据公开新闻信息生成，并经 AI 摘要整理。  
+> 免责声明：本日报仅供信息参考，不构成任何投资建议。
+
+---
+
+## 一、今日重点摘要
+
+{% for item in report.highlights %}
+{{ loop.index }}. {{ item }}
+{% endfor %}
+
+---
+
+## 二、市场概览
+
+| 板块 | 概览 |
+|---|---|
+| A股 | {{ report.market_overview.a_share }} |
+| 美股 | {{ report.market_overview.us_stock }} |
+| 港股 | {{ report.market_overview.hk_stock }} |
+| 汇率 / 外汇 | {{ report.market_overview.fx }} |
+| 黄金 / 原油 | {{ report.market_overview.commodity }} |
+| 宏观政策 | {{ report.market_overview.macro }} |
+| AI 行业 | {{ report.market_overview.ai }} |
+
+---
+
+## 三、分类新闻
+
+### 1. A股
+
+{% for news in report.sections.a_share %}
+- **{{ news.title }}**  
+  摘要：{{ news.summary }}  
+  来源：{{ news.source }}  
+  链接：{{ news.url }}
+
+{% endfor %}
+
+### 2. 美股
+
+{% for news in report.sections.us_stock %}
+- **{{ news.title }}**  
+  摘要：{{ news.summary }}  
+  来源：{{ news.source }}  
+  链接：{{ news.url }}
+
+{% endfor %}
+
+### 3. 港股
+
+{% for news in report.sections.hk_stock %}
+- **{{ news.title }}**  
+  摘要：{{ news.summary }}  
+  来源：{{ news.source }}  
+  链接：{{ news.url }}
+
+{% endfor %}
+
+### 4. 汇率 / 外汇
+
+{% for news in report.sections.fx %}
+- **{{ news.title }}**  
+  摘要：{{ news.summary }}  
+  来源：{{ news.source }}  
+  链接：{{ news.url }}
+
+{% endfor %}
+
+### 5. 黄金 / 原油
+
+{% for news in report.sections.commodity %}
+- **{{ news.title }}**  
+  摘要：{{ news.summary }}  
+  来源：{{ news.source }}  
+  链接：{{ news.url }}
+
+{% endfor %}
+
+### 6. 宏观政策
+
+{% for news in report.sections.macro %}
+- **{{ news.title }}**  
+  摘要：{{ news.summary }}  
+  来源：{{ news.source }}  
+  链接：{{ news.url }}
+
+{% endfor %}
+
+### 7. AI 行业
+
+{% for news in report.sections.ai %}
+- **{{ news.title }}**  
+  摘要：{{ news.summary }}  
+  来源：{{ news.source }}  
+  链接：{{ news.url }}
+
+{% endfor %}
+
+---
+
+## 四、今日关注
+
+{{ report.watchlist }}
+
+---
+
+## 五、风险提示
+
+{{ report.risk_note }}

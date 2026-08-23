@@ -1,0 +1,472 @@
+# 每日财经日报
+
+日期：2026-08-23
+
+> 本日报由自动化程序根据公开新闻信息生成，并经 AI 摘要整理。  
+> 免责声明：本日报仅供信息参考，不构成任何投资建议。
+
+---
+
+## 一、今日重点摘要
+
+
+1. 中国开始放行英伟达H200芯片，字节跳动和腾讯已收到小批量产品，为中国AI企业追赶美国竞争对手提供助力。
+
+2. 美国财政部宣布将长期国债回购规模至少扩大一倍，以应对长期国债剧烈抛售和借款成本飙升。
+
+3. 英伟达据报已告知部分大客户，其AI芯片服务器价格可能上涨超过15%。
+
+
+---
+
+## 二、市场概览
+
+| 板块 | 概览 |
+|---|---|
+| A股 | 公开信息不足，需继续关注。 |
+| 美股 | 美股本周录得周线跌幅，债券市场波动持续，比特币走高。 |
+| 港股 | 公开信息不足，需继续关注。 |
+| 汇率 / 外汇 | 美元指数跌破99关口，在岸人民币逼近6.72。 |
+| 黄金 / 原油 | 黄金维持强势，接近两个月高位；油价因中东紧张局势周线上涨。 |
+| 宏观政策 | 美国7月通胀率小幅回落至3.4%，但市场认为通胀仍具粘性；7月中国经济数据显示疲弱迹象。 |
+| AI 行业 | 中国开始放行英伟达H200芯片；美国AI公司面临中国竞争对手压力，OpenAI和Anthropic降价应对。 |
+
+---
+
+## 三、分类新闻
+
+### 1. A股
+
+
+
+### 2. 美股
+
+
+- **中国开始放行英伟达H200芯片**  
+  摘要：知情人士称，字节跳动和腾讯近几周已收到小批量H200芯片，这一进展将为力争追赶美国竞争对手的中国AI企业添加助力。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001110654
+
+
+- **4000万美元：法拉利首款电动汽车Luce拍出天价**  
+  摘要：Luce的拍卖成交价远超拍卖前预估价，创下新车拍卖成交价的纪录。该车由苹果前设计师艾维设计，标准版车型起售价为55万欧元。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001110642
+
+
+- **Nvidia customers reportedly warned about AI-related price hikes**  
+  摘要：The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported.  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html
+
+
+- **The biggest U.S. stocks have done great for you. Experts say not to get greedy**  
+  摘要：Low-cost S&P 500 index funds are the foundation of many portfolios to grow wealth, but investors should add assets to diversify and lower volatility.  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/22/stocks-market-investments-diversification.html
+
+
+- **Tesla recalls 3 million vehicles in China over doorhandle safety, driver monitoring**  
+  摘要：Tesla will voluntarily recall about 3 million of its vehicles in China to address doorhandle safety concerns and deficient driver monitoring systems.  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/21/tesla-recalls-cars-in-china-over-doorhandle-safety-driver-monitoring.html
+
+
+- **Walmart stock tumbles 9% after outlook disappoints Wall Street**  
+  摘要：Walmart is expected to report its fiscal second-quarter earnings on Thursday, offering a read on the consumer and the K-shaped economy.  
+  来源：CNBC Business  
+  链接：https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html
+
+
+- **Home Depot reaffirms guidance amid 'frozen housing market conditions'**  
+  摘要：Home Depot reported second fiscal quarter results that beat Wall Street expectations on the top and bottom lines.  
+  来源：CNBC Business  
+  链接：https://www.cnbc.com/2026/08/18/home-depot-hd-q2-2026-earnings.html
+
+
+- **I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare**  
+  摘要：Rivian is trying to catch up to Tesla's "hands-free" capabilities, but with additional safety guardrails that the Elon Musk company doesn't have.  
+  来源：CNBC Business  
+  链接：https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html
+
+
+- **Advanced Micro Devices (AMD) Posts Record Sales, But Musk’s NVIDIA (NVDA) Pledge Sinks the Stock**  
+  摘要：公开信息不足，需继续关注。  
+  来源：Yahoo Finance  
+  链接：https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-posts-194827905.html
+
+
+- **Broadcom’s Secret Weapon Against Nvidia Isn’t Chips — It’s a Massive Off-Balance-Sheet Financing Machine**  
+  摘要：公开信息不足，需继续关注。  
+  来源：Yahoo Finance  
+  链接：https://finance.yahoo.com/technology/ai/articles/broadcom-secret-weapon-against-nvidia-191318992.html
+
+
+- **Meta Platforms (META) Pitches AI for Everyone While Apple (AAPL) Quietly Turns to China**  
+  摘要：公开信息不足，需继续关注。  
+  来源：Yahoo Finance  
+  链接：https://finance.yahoo.com/technology/ai/articles/meta-platforms-meta-pitches-ai-195454070.html
+
+
+- **Space Exploration Technologies (SPCX) vs. NVIDIA Corporation (NVDA): SpaceX Beats on Revenue, But AI Spending Steals the Show**  
+  摘要：公开信息不足，需继续关注。  
+  来源：Yahoo Finance  
+  链接：https://finance.yahoo.com/markets/stocks/articles/space-exploration-technologies-spcx-vs-191030423.html
+
+
+- **Nvidia Earnings Preview: What's Needed To Drive Nvidia Stock Higher?**  
+  摘要：公开信息不足，需继续关注。  
+  来源：Yahoo Finance  
+  链接：https://www.investors.com/news/technology/nvidia-stock-nvda-preview-fiscal-q2-2027-earnings/?src=A00220&yptr=yahoo
+
+
+- **Stock market today: Dow, S&P 500, Nasdaq post weekly losses as bond volatility remains in focus, bitcoin soars**  
+  摘要：公开信息不足，需继续关注。  
+  来源：Yahoo Finance  
+  链接：https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-bitcoin-080533702.html
+
+
+- **Michael Burry Told Everyone to ‘Sell’ in January 2023. If You Listened, You Would Have Missed Out on the S&P 500 Nearly Doubling.**  
+  摘要：公开信息不足，需继续关注。  
+  来源：Yahoo Finance  
+  链接：https://finance.yahoo.com/markets/stocks/articles/michael-burry-told-everyone-sell-183609881.html
+
+
+
+### 3. 港股
+
+
+
+### 4. 汇率 / 外汇
+
+
+- **投资者缩减对美英加息的押注**  
+  摘要：经济数据变弱压倒对油价上涨的担忧，使交易员预计美联储将在今年剩余时间维持利率不变，而英国央行不太可能在未来一年加息超过两次。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001110680
+
+
+- **香港长江和记提请仲裁 向巴拿马索赔15亿美元**  
+  摘要：长江和记称巴拿马将其驱逐出巴拿马运河两个港口，导致其“投资损失”。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001110668
+
+
+- **4000万美元：法拉利首款电动汽车Luce拍出天价**  
+  摘要：Luce的拍卖成交价远超拍卖前预估价，创下新车拍卖成交价的纪录。该车由苹果前设计师艾维设计，标准版车型起售价为55万欧元。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001110642
+
+
+- **美国指控40余国家和地区帮助中国规避特朗普关税**  
+  摘要：白宫称，加拿大、日本、欧盟等国家和地区通过所谓“转运骗局”，为价值600亿美元的贸易规避关税提供了便利。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001110617
+
+
+- **Kalshi traders think the bitcoin rally could end the year near current levels**  
+  摘要：Speculators on the prediction market platform think it's most likely that the cryptocurrency will end 2026 close to where it's now trading.  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/21/kalshi-traders-say-bitcoin-rally-wont-go-much-higher-by-end-of-2026.html
+
+
+- **HSBC Holdings plc (HSBC) vs. UBS Group AG (UBS): Two European Banking Giants, Two Very Different Stories This Quarter**  
+  摘要：公开信息不足，需继续关注。  
+  来源：Yahoo Finance  
+  链接：https://finance.yahoo.com/markets/stocks/articles/hsbc-holdings-plc-hsbc-vs-191318513.html
+
+
+- **美元指数跌破99关口 在岸人民币逼近6.72**  
+  摘要：美元指数跌破99关口，在岸人民币逼近6.72。  
+  来源：新浪财经  
+  链接：https://news.google.com/rss/articles/CBMiggFBVV95cUxOeFNRWFVyU2w0REhnM0c3S2dYTTZhdWhON0F4TkRlamVFUHdTampQZklULTA4WVhMVzR5UEFYR2ZnWl9ISHB2anRFdEdnd3lTT0w0VXNCUnpQWl9kWmk0eWtjaWJjQ0VCOVZjYUkzenVmYVE2cjVHTXFtNzBGNDRMSTVn?oc=5
+
+
+- **头条文章 - 微博**  
+  摘要：公开信息不足，需继续关注。  
+  来源：微博  
+  链接：https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTkFBaWtkakZvVEFxZzZ4QVZJUVVNMnFJZE1jdUVTOHdhLVlUNjNoeG1xM0gtX3RLSldJamI5dWR4MnByQnd6OEZjZEFfMWhBMm1GU3dkYi1uekZkMTFwY1F6N2Vyby14M1F4N3ZZMFlkS1FOY0J6d28tdHhETGZvY0NqeTNhRnRtYmZqOE83X0NlV2NHamlPYjJZMWEyNnp3OVYxSjhhV1pnV2p2SVpHbnFVVDU3dHhNTGw5SndjbnZmMjg?oc=5
+
+
+- **双向波动稳中有升，人民币汇率韧性凸显**  
+  摘要：公开信息不足，需继续关注。  
+  来源：京报网  
+  链接：https://news.google.com/rss/articles/CBMickFVX3lxTE1KWlNad1l5RWY3NGtjZnZnN1lrWGJVVC1xczBLN3B3M1p4UXhqbFE4cFlhcWcwdkRxeXBCeFM0T3p2Z3RKV1BXWHM1WWVySWI4TXJxTG5yeTFQTUdmN3JOWTRCZThzeGVoZGVXa0dZYldndw?oc=5
+
+
+- **人民币又涨了！在岸、离岸人民币兑美元汇率双创逾3年新高**  
+  摘要：公开信息不足，需继续关注。  
+  来源：新京报  
+  链接：https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Dd252dWlUY1VoVUFINDdVMnIzTXYzUHRHYjdidEs1MFlfQk1XZEF6b29xMW1LZWVrQTNMTmZKbHVsUERXRGVQZTlxMG5uWHdOS0RyaTJjYnFaSUU2ZFhFWTh4Ums?oc=5
+
+
+- **人民币兑美元汇率逼近6.80关口 创逾三年新高**  
+  摘要：公开信息不足，需继续关注。  
+  来源：中国金融信息网  
+  链接：https://news.google.com/rss/articles/CBMiakFVX3lxTE1wQ3JtNE13U3ZqSXpIaEFvNHFaSUNKU2dUeFcwNVZsaG56QU9VQUFNbDhETmtMUXgzX3ZGdksxeE1BOWkwbzhuQzR4MllqYnN0VkFlZllUY0NHdmlfWU5mbmFJZjJMSUZQamc?oc=5
+
+
+- **美联储年内再次按兵不动，人民币汇率走出“独立行情”**  
+  摘要：公开信息不足，需继续关注。  
+  来源：21财经  
+  链接：https://news.google.com/rss/articles/CBMijwFBVV95cUxQMzA0MWZLR3ZiSkhCc18tSUNmS3B3djJSWkJkN1NVb3I2Yk8tVkYwaWF4SUh0WTZqYlJHU3ZCLXVSYnNFdlMzdGE1MnZqZ0dES2RoV1duQ2JCcW1EdnhYM0d5NDljUGJsb3hjaVduakstaEhtbEVyNktISlNkcDNQUjdKVGNBc1p5Q0Rad0Y4MA?oc=5
+
+
+- **（经济观察）年中盘点：人民币汇率走出独立升势**  
+  摘要：公开信息不足，需继续关注。  
+  来源：东方财富  
+  链接：https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVdFBvNm1oaEQ3dzRfT3l4SGxrU1lhalRidjlIRVpHcnZyVU1ULWpnWGVwZ3ZyWXlGUHBsYXFTdUhOU1BpRVE1RjdsQUtydDZHUkYxYWp6cnIwQVVVaWhhZA?oc=5
+
+
+- **离岸人民币再升破6.8 均衡波动将成常态**  
+  摘要：公开信息不足，需继续关注。  
+  来源：北京商报  
+  链接：https://news.google.com/rss/articles/CBMiXkFVX3lxTE51eGZjM2NjQUhxc3BEQzNrZGhTajl6czBNTlFyRWt4eDRwdmpJMVBpd1lGaW1xQ2oxVGd5SXJVWnhuVHY4c2lrNG1pTUZuU2tBcVc5ZjBIVXVVbmdFVEE?oc=5
+
+
+- **美元指数大幅上升，我国6月外储规模环比下跌，央行连续20个月增持购金**  
+  摘要：公开信息不足，需继续关注。  
+  来源：财联社  
+  链接：https://news.google.com/rss/articles/CBMiSEFVX3lxTFBiMWFEdjlXcDE5M21UMURmYzg2Y3c4TEI1Vy1Wa1hYampQYVFsd1BseTc0N3BpcEQ4X1RUZ1ZHSzlHaEY5ZXB3ZQ?oc=5
+
+
+
+### 5. 黄金 / 原油
+
+
+- **投资者缩减对美英加息的押注**  
+  摘要：经济数据变弱压倒对油价上涨的担忧，使交易员预计美联储将在今年剩余时间维持利率不变，而英国央行不太可能在未来一年加息超过两次。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001110680
+
+
+- **美国人对特朗普治下的经济日益悲观**  
+  摘要：在美伊战争加剧生活负担危机、迫使美国人缩减支出的背景下，8月消费者信心指数大幅下降，高油价沉重打击老年和低收入人群。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001110625
+
+
+- **Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin**  
+  摘要：Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html
+
+
+- **U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May**  
+  摘要：The security situation in Hormuz remains contested but the U.S. is helping oil get through the strait.  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/21/strait-hormuz-central-command-centcom-oil-iran-war.html
+
+
+- **Oil Shipper Hits New High; Three Stocks Also Near Pivots**  
+  摘要：公开信息不足，需继续关注。  
+  来源：Yahoo Finance  
+  链接：https://www.investors.com/stock-lists/new-highs/oil-stock-frontline-fro/?src=A00220&yptr=yahoo
+
+
+- **Oil Posts Weekly Gains on Simmering Middle East Tension**  
+  摘要：公开信息不足，需继续关注。  
+  来源：Yahoo Finance  
+  链接：https://www.wsj.com/finance/commodities-futures/oil-futures-fall-on-likely-technical-correction-bee9638e?siteid=yhoof2&yptr=yahoo
+
+
+- **Occidental Petroleum Stock Can Climb Without A Higher Oil Price**  
+  摘要：公开信息不足，需继续关注。  
+  来源：Yahoo Finance  
+  链接：https://finance.yahoo.com/markets/stocks/articles/occidental-petroleum-stock-climb-without-194146402.html
+
+
+- **Oil Prices Extend Their Rally**  
+  摘要：公开信息不足，需继续关注。  
+  来源：Yahoo Finance  
+  链接：https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/oil-prices-extend-their-rally-9Xe3P9PMgII1kGdSDwmH?siteid=yhoof2&yptr=yahoo
+
+
+- **Gold prices today, Friday, August 21, 2026: Gold remains strong amid U.S. debt concerns**  
+  摘要：公开信息不足，需继续关注。  
+  来源：Yahoo Finance  
+  链接：https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-august-21-2026-gold-remains-strong-amid-us-debt-concerns-161052751.html
+
+
+- **Commodity Corner : Gold near 2 - month high , oil steady as US - Iran war , yields in focus**  
+  摘要：公开信息不足，需继续关注。  
+  来源：moneycontrol.com  
+  链接：https://www.moneycontrol.com/news/business/commodities/commodity-corner-gold-near-2-month-high-oil-steady-as-us-iran-war-yields-in-focus-14010831.html
+
+
+- **Commodity Corner : Oil rises for 4th day ; gold edges higher as US yields ease**  
+  摘要：公开信息不足，需继续关注。  
+  来源：moneycontrol.com  
+  链接：https://www.moneycontrol.com/news/business/commodities/commodity-corner-oil-rises-for-4th-day-gold-edges-higher-as-us-yields-ease-14009817.html
+
+
+- **Gold , silver extend breakout as U . S . dollar slides below 99 - Kitco AM Report**  
+  摘要：公开信息不足，需继续关注。  
+  来源：kitco.com  
+  链接：http://www.kitco.com/news/article/2026-08-21/gold-silver-extend-breakout-us-dollar-slides-below-99-kitco-am-report
+
+
+- **Gold price today : Check 22K , 24K rates in Delhi , Bengaluru , Chennai and Mumbai**  
+  摘要：公开信息不足，需继续关注。  
+  来源：hindustantimes.com  
+  链接：https://www.hindustantimes.com/business/gold-price-today-check-22k-24k-rates-in-delhi-bengaluru-chennai-and-mumbai-silver-prices-101787303975053.html
+
+
+- **Hormuz Crisis Turns Stagflationary as Silver Starts to Crack**  
+  摘要：公开信息不足，需继续关注。  
+  来源：actionforex.com  
+  链接：https://www.actionforex.com/action-insight/market-overview/651059-hormuz-crisis-turns-stagflationary-as-silver-starts-to-crack/
+
+
+- **What Will Watson Do Wednesday ?**  
+  摘要：公开信息不足，需继续关注。  
+  来源：finance.yahoo.com  
+  链接：https://finance.yahoo.com/markets/commodities/articles/watson-wednesday-113837313.html
+
+
+
+### 6. 宏观政策
+
+
+- **投资者缩减对美英加息的押注**  
+  摘要：经济数据变弱压倒对油价上涨的担忧，使交易员预计美联储将在今年剩余时间维持利率不变，而英国央行不太可能在未来一年加息超过两次。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001110680
+
+
+- **美国财政部宣布将长期国债回购规模至少扩大一倍**  
+  摘要：在美国长期国债遭遇剧烈抛售、导致借款成本飙升至多年高点的背景下，美国财政部宣布将“流动性支持回购操作的规模至少扩大一倍”。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001110662
+
+
+- **7月份中国经济显示疲弱迹象**  
+  摘要：工业产出增长放缓，社会消费品零售总额同比增长微乎其微，领导层表示将加快财政支出。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001110634
+
+
+- **3.4%：美国7月通胀率小幅回落**  
+  摘要：低于6月的3.5%，且符合经济学家预期。但市场人士指出，数据表明美国的通胀仍“具有粘性”。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001110598
+
+
+- **Credit card issuer Synchrony announces partnership with OpenAI**  
+  摘要：The collaboration, which is in its early stages, is a step toward enabling Synchrony customers to have smoother online shopping experiences.  
+  来源：CNBC Business  
+  链接：https://www.cnbc.com/2026/08/17/synchrony-openai.html
+
+
+- **United Front Worker Recommits to Rejuvenation**  
+  摘要：公开信息不足，需继续关注。  
+  来源：jamestown.org  
+  链接：https://jamestown.org/united-front-worker-recommits-to-rejuvenation/
+
+
+
+### 7. AI 行业
+
+
+- **中国开始放行英伟达H200芯片**  
+  摘要：知情人士称，字节跳动和腾讯近几周已收到小批量H200芯片，这一进展将为力争追赶美国竞争对手的中国AI企业添加助力。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001110654
+
+
+- **莫迪承诺为印度青年提供免费辅导和AI培训**  
+  摘要：几周前，在“蟑螂人民党”的带领下，Z世代的印度年轻人走上街头，抗议试卷泄露和缺乏稳定高薪的工作机会。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001110627
+
+
+- **中国AI公司步步紧逼 OpenAI和Anthropic打降价牌**  
+  摘要：美国顶尖人工智能实验室正通过发布更便宜的模型或者降价，以力争留住客户，不过最优秀模型的价格仍“保持平稳或上涨”。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001110616
+
+
+- **As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8**  
+  摘要：New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html
+
+
+- **Nvidia customers reportedly warned about AI-related price hikes**  
+  摘要：The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported.  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html
+
+
+- **Airbnb's new fee change frustrates hosts—what to know before renting out your home**  
+  摘要：A new Airbnb fee change is one of many costs and considerations that can affect whether running a short-term rental makes money.  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/22/airbnb-fee-change-frustrates-hosts-what-to-know-before-listing.html
+
+
+- **For young Americans, the workplace is the new phoneless frontier. 'It allows us to hyper focus on the task at hand,' says employer**  
+  摘要：Schools and increasingly teen employers are drawing a hard line against phone use. The benefits for teens can be profound.  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/22/is-workplace-new-phoneless-frontier-for-teens.html
+
+
+- **Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin**  
+  摘要：Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html
+
+
+- **Rising yields rattled the market, but we’re sticking with our favorite AI and retail stocks**  
+  摘要：Stocks took their cue from the bond market this week.  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/22/rising-yields-rattled-the-market-but-were-sticking-with-our-favorite-ai-and-retail-stocks.html
+
+
+- **Anthropic IPO filing will show AI backlash as a risk factor, sources say**  
+  摘要：Anthropic is poised to debut on the stock market at a time when the public is increasingly upset about data centers and is fearful about AI taking jobs.  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html
+
+
+- **Bessent's bond gambit aimed at calming markets is instead stirring inflation worries**  
+  摘要：The so-called breakeven rate hit its highest levels in more than two months.  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/21/bessents-bond-gambit-aimed-at-calming-markets-is-instead-stirring-inflation-worries-.html
+
+
+- **Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio**  
+  摘要：Citadel has unwound more than 80% of the portfolio risk it acquired from Situational Awareness through over $4 billion in block trades, said Ken Griffin.  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/21/citadel-situational-awareness-ken-griffin.html
+
+
+- **Energy sector is in focus because of Iran, AI and California. Here are hedge funds' top plays**  
+  摘要：The favorite energy stocks of hedge funds - including one with a projected 65% upside  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/21/energy-sector-is-in-focus-because-of-iran-ai-and-california-here-are-hedge-funds-top-plays.html
+
+
+- **Broadcom debt deal expected to reach upwards of $70 billion, sources say**  
+  摘要：Broadcom is in talks to raise upwards of $70 to $80 billion in debt for a chip financing deal, CNBC's David Faber reported on Friday.  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/21/broadcom-debt-deal-expected-to-reach-upwards-of-70-billion-sources.html
+
+
+- **U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May**  
+  摘要：The security situation in Hormuz remains contested but the U.S. is helping oil get through the strait.  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/21/strait-hormuz-central-command-centcom-oil-iran-war.html
+
+
+
+---
+
+## 四、今日关注
+
+1. 英伟达财报及AI芯片价格走势；2. 美国财政部国债回购计划对债市影响；3. 中东局势对油价和金价的影响；4. 人民币汇率走势及美元指数变化；5. 中国AI芯片进口政策动向。
+
+---
+
+## 五、风险提示
+
+本日报仅供信息参考，不构成投资建议。

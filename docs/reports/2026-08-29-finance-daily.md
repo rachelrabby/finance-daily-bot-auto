@@ -1,0 +1,418 @@
+# 每日财经日报
+
+日期：2026-08-29
+
+> 本日报由自动化程序根据公开新闻信息生成，并经 AI 摘要整理。  
+> 免责声明：本日报仅供信息参考，不构成任何投资建议。
+
+---
+
+## 一、今日重点摘要
+
+
+1. 美联储主席沃什在杰克逊霍尔发表鹰派讲话，暗示可能加息，市场波动加大。
+
+2. 英伟达员工被控向中国大陆走私先进芯片，涉及130台B300服务器。
+
+3. 美国与委内瑞拉达成协议，获取超650亿桶石油储备控制权。
+
+
+---
+
+## 二、市场概览
+
+| 板块 | 概览 |
+|---|---|
+| A股 | A股市场公开信息不足，需继续关注。 |
+| 美股 | 美股市场受英伟达财报和AI行情推动，纳斯达克指数大幅收高。 |
+| 港股 | 港股市场公开信息不足，需继续关注。 |
+| 汇率 / 外汇 | 外汇市场关注美联储政策信号，美元走势受沃什讲话影响。 |
+| 黄金 / 原油 | 黄金原油市场受地缘政治影响，美国与委内瑞拉达成石油协议，伊朗石油出口受封锁。 |
+| 宏观政策 | 宏观政策方面，美联储主席沃什表达对通胀担忧，市场缩减对美英加息的押注。 |
+| AI 行业 | AI行业关注英伟达芯片走私案及数据中心战略，AI行情推动美股上涨。 |
+
+---
+
+## 三、分类新闻
+
+### 1. A股
+
+
+- **Fire blackens Zhinan Temple in Taipei Wenshan District**  
+  摘要：台北文山区指南宫发生火灾，建筑受损。  
+  来源：GDELT-taipeitimes.com  
+  链接：https://www.taipeitimes.com/News/taiwan/archives/2026/08/25/2003863109
+
+
+- **《 TAIPEI TIMES 》 Taipei to support temple after blaze , mayor says - 焦點**  
+  摘要：台北市长表示将支持指南宫灾后重建。  
+  来源：GDELT-news.ltn.com.tw  
+  链接：https://news.ltn.com.tw/news/focus/breakingnews/5552215
+
+
+- **From Strategy to Value : Neutech 2026 Interim Results Confirm the Growth Logic of Its Education - Healthcare - Wellness Ecosystem**  
+  摘要：Neutech 2026年中期业绩确认其教育-医疗-健康生态系统的增长逻辑。  
+  来源：GDELT-manilatimes.net  
+  链接：https://www.manilatimes.net/2026/08/26/tmt-newswire/pr-newswire/from-strategy-to-value-neutechs-2026-interim-results-confirm-the-growth-logic-of-its-education-healthcare-wellness-ecosystem/2412491
+
+
+- **7 Things to Check Before Installing a Messaging App on Your Laptop in 2026**  
+  摘要：文章列出2026年在笔记本电脑上安装消息应用前需检查的7个事项。  
+  来源：GDELT-mensxp.com  
+  链接：https://www.mensxp.com/technology/apps/185500-7-things-to-check-before-installing-a-messaging-app-on-your-laptop-in-2026.html
+
+
+- **端正觀念篇 -- 開欄文 ： 8 個錯誤的老生常談 -- Singh Bhai - 時事論壇**  
+  摘要：论坛文章讨论8个常见的错误观念。  
+  来源：GDELT-city.udn.com  
+  链接：https://city.udn.com/2976/7253553?raid=7298028
+
+
+
+### 2. 美股
+
+
+- **英伟达员工在台被控向中国大陆走私先进芯片**  
+  摘要：台湾检方指控英伟达一名驻台资深经理为走私案核心人物，涉及130台B300服务器。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001110709
+
+
+- **Stock traders warm up to Warsh as volatility index touches year-to-date low**  
+  摘要：交易员对沃什态度转暖，波动率指数触及年内低点。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/28/stock-traders-warm-up-to-warsh-as-volatility-index-touches-year-to-date-low.html
+
+
+- **Apple hikes subscription prices for Apple TV and Apple One in the U.S.**  
+  摘要：苹果在美国提高Apple TV和Apple One订阅价格。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/28/apple-tv-one-price-hike-us.html
+
+
+- **Treasury moves to sanction UAE branch of Egyptian bank over Iran ties**  
+  摘要：美国财政部因伊朗关系制裁埃及银行阿联酋分行。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/28/treasury-uae-banque-misr-sanctions-iran.html
+
+
+- **Marc Benioff is getting his mojo back as Salesforce's AI strength quiets skeptics**  
+  摘要：Salesforce的AI实力让怀疑者安静，CEO贝尼奥夫重获信心。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/28/marc-benioff-getting-his-mojo-back-as-salesforce-lifts-ai-growth-view.html
+
+
+- **Dick's Sporting Goods stock falls 30% as retailer misses expectations, cites 'challenging' footwear market**  
+  摘要：Dick's Sporting Goods因鞋类市场挑战，业绩不及预期，股价下跌30%。  
+  来源：CNBC Business  
+  链接：https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html
+
+
+- **Main Street Sports sues Comcast, Charter for underpaid licensing fees**  
+  摘要：Main Street Sports起诉Comcast和Charter未足额支付许可费。  
+  来源：CNBC Business  
+  链接：https://www.cnbc.com/2026/08/24/main-street-sports-comcast-charter-lawsuit-payments.html
+
+
+- **NVIDIA (NVDA)’s Data Center Strategy Deepens With Cloverleaf Investment**  
+  摘要：英伟达通过投资Cloverleaf深化数据中心战略。  
+  来源：Yahoo Finance  
+  链接：https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-data-center-strategy-001348841.html
+
+
+- **NVIDIA (NVDA) Excluded China Data Center Compute Revenue from its $108B Outlook. Can Growth Stay Exceptional Without It?**  
+  摘要：英伟达1080亿美元展望中排除中国数据中心计算收入，增长能否保持？  
+  来源：Yahoo Finance  
+  链接：https://finance.yahoo.com/technology/articles/nvidia-nvda-excluded-china-data-032951004.html
+
+
+- **Mortgage and refinance interest rates today, Friday, August 28, 2026: Rates down ahead of Warsh speech at Jackson Hole**  
+  摘要：抵押贷款利率在沃什讲话前下降。  
+  来源：Yahoo Finance  
+  链接：https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-august-28-2026-rates-down-ahead-of-warsh-speech-at-jackson-hole-100000635.html
+
+
+- **Stock Market Today ( Aug . 25 , 2026 ): $INTU , $ZM to report after the closing bell ; Nasdaq jumps**  
+  摘要：纳斯达克指数跳涨，Intuit和Zoom盘后公布财报。  
+  来源：GDELT-finance.yahoo.com  
+  链接：https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-25-134315492.html
+
+
+- **순환매 흐름 속 亞 투자 기회에 주목 [ 글로벌 view ]**  
+  摘要：在轮动行情中关注亚洲投资机会。  
+  来源：GDELT-edaily.co.kr  
+  链接：https://www.edaily.co.kr/News/Read?newsId=04733046645551584&mediaCodeNo=257
+
+
+- **These 19 Indian stocks turned into tenbaggers in 5 years : Peter Lynch rules to find the next**  
+  摘要：19只印度股票5年涨十倍，彼得·林奇法则寻找下一批。  
+  来源：GDELT-economictimes.indiatimes.com  
+  链接：https://economictimes.indiatimes.com/markets/stocks/news/these-19-stocks-turned-into-tenbaggers-in-5-years-peter-lynchs-rules-to-find-the-next/articleshow/133556335.cms
+
+
+- **Nvidia Notches Longest Losing Streak Since 2022 . Tomorrow Earnings Could Make It Worse**  
+  摘要：英伟达遭遇2022年以来最长连跌，财报可能加剧跌势。  
+  来源：GDELT-finance.yahoo.com  
+  链接：https://finance.yahoo.com/markets/stocks/articles/nvidia-notches-longest-losing-streak-125253103.html
+
+
+- **Nasdaq closes sharply higher as Nvidia reignites AI rally**  
+  摘要：英伟达重燃AI行情，纳斯达克大幅收高。  
+  来源：GDELT-proactiveinvestors.com  
+  链接：https://www.proactiveinvestors.com/companies/news/1097723/nasdaq-closes-sharply-higher-as-nvidia-reignites-ai-rally-1097723.html
+
+
+
+### 3. 港股
+
+
+
+### 4. 汇率 / 外汇
+
+
+- **三星被判向斯沃琪赔偿1160万美元**  
+  摘要：三星因在智能手表上架奢侈腕表数字复刻版，被判赔偿斯沃琪1160万美元。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001110726
+
+
+- **Meta同意支付180亿美元了结社交媒体伤害儿童案**  
+  摘要：Meta同意支付180亿美元和解美国多州提起的诉讼。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001110724
+
+
+- **投资者缩减对美英加息的押注**  
+  摘要：经济数据变弱，交易员预计美联储今年维持利率不变，英国央行加息次数有限。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001110680
+
+
+- **香港长江和记提请仲裁 向巴拿马索赔15亿美元**  
+  摘要：长江和记因被驱逐出巴拿马运河港口，提请仲裁索赔15亿美元。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001110668
+
+
+- **Bessent attacks Warren over yen intervention query, offers ‘Foreign Exchange for Dummies’ lesson**  
+  摘要：美国财长贝森特就日元干预问题批评沃伦，并称提供外汇基础课程。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/28/bessent-warren-yen-intervention-treasury-japan.html
+
+
+- **Analysis: Kevin Warsh sharpens inflation warning at Jackson Hole, signaling possible rate hike**  
+  摘要：美联储主席沃什在杰克逊霍尔强化通胀警告，暗示可能加息。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-fed-inflation-rate-hike.html
+
+
+- **Trump loses bid to transfer New York hush money case to federal court**  
+  摘要：特朗普试图将纽约封口费案移交联邦法院的请求被驳回。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/28/trump-hush-money-federal-court.html
+
+
+- **Fed Chairman Warsh expresses concern about inflation, advocates for 'quieter' central bank**  
+  摘要：美联储主席沃什表达对通胀担忧，主张央行更安静。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html
+
+
+- **2-year Treasury yield jumps as Warsh says Fed may 'have work to do'**  
+  摘要：沃什称美联储可能还有工作要做，2年期美债收益率上升。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/28/treasury-yields-jackson-hole.html
+
+
+- **American Airlines adds batch of new international routes on its XLR planes**  
+  摘要：美国航空新增多条国际航线，主要飞往欧洲小城市。  
+  来源：CNBC Business  
+  链接：https://www.cnbc.com/2026/08/27/american-airlines-routes-xlr.html
+
+
+- **端正觀念篇 -- 開欄文 ： 8 個錯誤的老生常談 -- Singh Bhai - 時事論壇**  
+  摘要：论坛文章讨论8个常见的错误观念。  
+  来源：GDELT-city.udn.com  
+  链接：https://city.udn.com/2976/7253553?raid=7298028
+
+
+- **离岸人民币兑美元破7.3！外汇局深夜发声，未来怎么走？**  
+  摘要：离岸人民币兑美元跌破7.3，外汇局深夜发声。  
+  来源：每日经济新闻  
+  链接：https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GaXhGcDV0WGRzMWZUc3VWMFRSSkItSU84SVFFM05wdl8xQk52YmhlUUxpVUtzaTRuRHd1Z2dnZUZ3cDVWQXBFaDdvVHVqRDZlam5FSFFWWjJ0alhQcC1HelpFV01zUQ?oc=5
+
+
+- **人民币又涨了！在岸、离岸人民币兑美元汇率双创逾3年新高**  
+  摘要：在岸、离岸人民币兑美元汇率双双创逾3年新高。  
+  来源：新京报  
+  链接：https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Dd252dWlUY1VoVUFINDdVMnIzTXYzUHRHYjdidEs1MFlfQk1XZEF6b29xMW1LZWVrQTNMTmZKbHVsUERXRGVQZTlxMG5uWHdOS0RyaTJjYnFaSUU2ZFhFWTh4Ums?oc=5
+
+
+- **人民币兑美元汇率逼近6.80关口 创逾三年新高**  
+  摘要：人民币兑美元汇率逼近6.80，创逾三年新高。  
+  来源：中国金融信息网  
+  链接：https://news.google.com/rss/articles/CBMiakFVX3lxTE1wQ3JtNE13U3ZqSXpIaEFvNHFaSUNKU2dUeFcwNVZsaG56QU9VQUFNbDhETmtMUXgzX3ZGdksxeE1BOWkwbzhuQzR4MllqYnN0VkFlZllUY0NHdmlfWU5mbmFJZjJMSUZQamc?oc=5
+
+
+- **双向波动稳中有升，人民币汇率韧性凸显**  
+  摘要：人民币汇率双向波动，稳中有升，韧性凸显。  
+  来源：京报网  
+  链接：https://news.google.com/rss/articles/CBMickFVX3lxTE1KWlNad1l5RWY3NGtjZnZnN1lrWGJVVC1xczBLN3B3M1p4UXhqbFE4cFlhcWcwdkRxeXBCeFM0T3p2Z3RKV1BXWHM1WWVySWI4TXJxTG5yeTFQTUdmN3JOWTRCZThzeGVoZGVXa0dZYldndw?oc=5
+
+
+
+### 5. 黄金 / 原油
+
+
+- **投资者缩减对美英加息的押注**  
+  摘要：经济数据变弱，交易员预计美联储今年维持利率不变，英国央行加息次数有限。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001110680
+
+
+- **Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves**  
+  摘要：美国与委内瑞拉达成协议，获取超650亿桶石油储备控制权。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html
+
+
+- **U.S. Navy blockade slashes Iran oil exports as Trump administration shifts to economic warfare**  
+  摘要：美国海军封锁大幅削减伊朗石油出口，转向经济战。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/28/navy-blockade-iran-oil-exports-sanctions-trump.html
+
+
+- **Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills**  
+  摘要：高盛合伙人警告AI取代银行家推理技能存在巨大危险。  
+  来源：CNBC Business  
+  链接：https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html
+
+
+- **Delta SkyMiles® Gold American Express Card review: Great for casual Delta flyers**  
+  摘要：达美航空金卡评测，适合偶尔飞行的旅客。  
+  来源：Yahoo Finance  
+  链接：https://finance.yahoo.com/personal-finance/credit-cards/review/delta-skymiles-gold-american-express-card-review-223134826.html
+
+
+
+### 6. 宏观政策
+
+
+- **投资者缩减对美英加息的押注**  
+  摘要：经济数据变弱，交易员预计美联储今年维持利率不变，英国央行加息次数有限。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001110680
+
+
+- **Fed Chairman Warsh expresses concern about inflation, advocates for 'quieter' central bank**  
+  摘要：美联储主席沃什表达对通胀担忧，主张央行更安静。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html
+
+
+
+### 7. AI 行业
+
+
+- **英伟达员工在台被控向中国大陆走私先进芯片**  
+  摘要：台湾检方指控英伟达一名驻台资深经理为走私案核心人物，涉及130台B300服务器。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001110709
+
+
+- **Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves**  
+  摘要：美国与委内瑞拉达成协议，获取超650亿桶石油储备控制权。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html
+
+
+- **Bessent attacks Warren over yen intervention query, offers ‘Foreign Exchange for Dummies’ lesson**  
+  摘要：美国财长贝森特就日元干预问题批评沃伦，并称提供外汇基础课程。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/28/bessent-warren-yen-intervention-treasury-japan.html
+
+
+- **Trump’s Greenland fixation puts security at the heart of Iceland’s knife-edge EU vote**  
+  摘要：特朗普对格陵兰的执着使安全成为冰岛欧盟公投的核心议题。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/28/iceland-eu-referendum-trump-greenland-arctic.html
+
+
+- **Analysis: Kevin Warsh sharpens inflation warning at Jackson Hole, signaling possible rate hike**  
+  摘要：美联储主席沃什在杰克逊霍尔强化通胀警告，暗示可能加息。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-fed-inflation-rate-hike.html
+
+
+- **Apple hikes subscription prices for Apple TV and Apple One in the U.S.**  
+  摘要：苹果在美国提高Apple TV和Apple One订阅价格。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/28/apple-tv-one-price-hike-us.html
+
+
+- **Mark Walter's insurer Delaware Life sees two banks pause sale of its products amid probes**  
+  摘要：两家银行暂停销售Mark Walter旗下保险公司的产品，因调查进行中。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/28/mark-walter-delaware-life-truist-fifth-third-banks.html
+
+
+- **U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court**  
+  摘要：美国上诉法院裁定预测市场不合法，可能引发最高法院之争。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html
+
+
+- **Treasury moves to sanction UAE branch of Egyptian bank over Iran ties**  
+  摘要：美国财政部因伊朗关系制裁埃及银行阿联酋分行。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/28/treasury-uae-banque-misr-sanctions-iran.html
+
+
+- **Iran calls for global pushback against U.S. sanctions, says diplomacy 'isn't impossible'**  
+  摘要：伊朗呼吁全球抵制美国制裁，称外交并非不可能。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/28/us-iran-war-trump-hormuz-oman-centcom.html
+
+
+- **Fed Chairman Warsh expresses concern about inflation, advocates for 'quieter' central bank**  
+  摘要：美联储主席沃什表达对通胀担忧，主张央行更安静。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html
+
+
+- **2-year Treasury yield jumps as Warsh says Fed may 'have work to do'**  
+  摘要：沃什称美联储可能还有工作要做，2年期美债收益率上升。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/28/treasury-yields-jackson-hole.html
+
+
+- **Marvell shares tumble 6% as outlook underwhelms despite 37% revenue growth**  
+  摘要：Marvell股价下跌6%，尽管营收增长37%，但展望不及预期。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/28/marvell-mrvl-q2-earnings-outlook.html
+
+
+- **U.S. Navy blockade slashes Iran oil exports as Trump administration shifts to economic warfare**  
+  摘要：美国海军封锁大幅削减伊朗石油出口，转向经济战。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/28/navy-blockade-iran-oil-exports-sanctions-trump.html
+
+
+- **'Grand Theft Auto 6' preview signals blockbuster demand, analysts say**  
+  摘要：《侠盗猎车手6》预告片发布，分析师预计需求强劲。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/08/28/gta-6-preview-netflix.html
+
+
+
+---
+
+## 四、今日关注
+
+1. 美联储主席沃什在杰克逊霍尔的讲话对加息预期的影响。2. 英伟达财报及AI行情后续走势。3. 美国与委内瑞拉石油协议对油价的影响。4. 美国海军封锁伊朗石油出口的后续发展。5. 人民币汇率波动及外汇政策动向。
+
+---
+
+## 五、风险提示
+
+本日报仅供信息参考，不构成投资建议。

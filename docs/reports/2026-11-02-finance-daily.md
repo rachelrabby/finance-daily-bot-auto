@@ -1,0 +1,218 @@
+# 每日财经日报
+
+日期：2026-11-02
+
+> 本日报由自动化程序根据公开新闻信息生成，并经 AI 摘要整理。  
+> 免责声明：本日报仅供信息参考，不构成任何投资建议。
+
+---
+
+## 一、今日重点摘要
+
+
+1. Meta拟发股筹集950亿美元AI投资资金，英伟达、AMD和博通将作为基石投资者支持
+
+2. 美国财政部提议收紧人工智能、高超音速武器与生物科技等敏感领域对华投资监管
+
+3. 美国第三季度年化经济增速达3.4%超预期，AI支出热潮继续推动经济增长
+
+4. 人民币对美元延续偏强走势，三大人民币汇率指数回落
+
+5. 韩国2027年预算将增长12.8%，重点投资半导体、物理AI和AI数据中心
+
+
+---
+
+## 二、市场概览
+
+| 板块 | 概览 |
+|---|---|
+| A股 | 公开信息不足，需继续关注。 |
+| 美股 | 美股科技股承压，纳斯达克出现自3月以来首次三周连跌，超大规模云厂商的AI支出预期引发市场担忧；企业财报方面，联邦快递和UPS业绩超预期并上调指引，福特三季度业绩喜忧参半，星巴克美国业务同店销售超预期但国际业务不及预期。 |
+| 港股 | 公开信息不足，需继续关注。 |
+| 汇率 / 外汇 | 人民币对美元延续偏强走势，但三大人民币汇率指数回落；有分析指出人民币与美元出现罕见双强，背后是定价逻辑切换。 |
+| 黄金 / 原油 | 土耳其央行降息100基点，为伊朗战争爆发以来首次宽松，但油价高企仍对通胀构成上行风险；美国大型石油公司炼油利润因燃料供应收紧而大幅增长。 |
+| 宏观政策 | 美国财政部提议收紧敏感领域对华投资监管，涉及人工智能、高超音速武器与生物科技；美国第三季度年化经济增速3.4%超预期；土耳其央行降息100基点。 |
+| AI 行业 | Meta拟发股筹集950亿美元AI投资资金；OpenAI最新一轮融资目标削减至最高200亿美元；Anthropic的纳斯达克上市之路因超大规模云厂商支出预期而更加坎坷；韩国2027年预算重点投资半导体、物理AI和AI数据中心；OpenAI CEO Sam Altman访问韩国，与三星等芯片伙伴会面。 |
+
+---
+
+## 三、分类新闻
+
+### 1. A股
+
+
+
+### 2. 美股
+
+
+- **Meta拟发股筹集950亿美元AI投资资金**  
+  摘要：Meta计划通过发行股票筹集950亿美元用于AI投资，英伟达、AMD和博通将作为基石投资者支持这笔交易。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001111205
+
+
+- **Anthropic's path to the Nasdaq just got a lot bumpier**  
+  摘要：超大规模云厂商令人担忧的支出预测打压科技股，纳斯达克出现自3月以来首次三周连跌，Anthropic的上市之路更加坎坷。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html
+
+
+- **FedEx beats expectations, raises outlook in first report since calendar adjustment**  
+  摘要：联邦快递在新财年第三季度业绩超出华尔街预期，并上调业绩指引。  
+  来源：CNBC Business  
+  链接：https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html
+
+
+- **UPS beats quarterly expectations, raises full-year guidance again**  
+  摘要：UPS第三季度业绩超出华尔街预期，并连续第二个季度上调全年业绩指引。  
+  来源：CNBC Business  
+  链接：https://www.cnbc.com/2026/10/27/ups-ups-q3-2026-earnings.html
+
+
+- **Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year**  
+  摘要：福特汽车第三季度盈利超出预期但营收略低于预期，公司预计2027年盈利与今年持平。  
+  来源：CNBC Business  
+  链接：https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html
+
+
+- **Starbucks sales miss expectations, but its U.S. turnaround is gaining steam**  
+  摘要：星巴克美国门店同店销售超出华尔街预期，但国际业务不及预期。  
+  来源：CNBC Business  
+  链接：https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html
+
+
+- **GM will switch to Nasdaq from the NYSE on Nov. 17**  
+  摘要：通用汽车将于11月17日从纽交所转至纳斯达克上市，保留“GM”股票代码，股东无需采取行动。  
+  来源：CNBC Business  
+  链接：https://www.cnbc.com/2026/10/27/gm-nasdaq-nyse-stock-listing.html
+
+
+- **Stellantis stock rises 13% as automaker's turnaround plan, cost cuts gain traction**  
+  摘要：Stellantis第三季度录得40亿欧元现金缺口，但其扭亏计划和成本削减措施获得市场认可，股价上涨13%。  
+  来源：CNBC Business  
+  链接：https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html
+
+
+
+### 3. 港股
+
+
+
+### 4. 汇率 / 外汇
+
+
+- **三大人民币汇率指数回落 人民币对美元延续偏强走势**  
+  摘要：三大人民币汇率指数回落，但人民币对美元汇率延续偏强走势。  
+  来源：21财经  
+  链接：https://news.google.com/rss/articles/CBMijwFBVV95cUxOamJkd1R6UDBEek9NbmQ3WUh5RWFGanlSLXlORXg0dHBpQzBqQUdjZmljUW4wNVIyYWZMc2U2QThtQVBHN0ljN3lhXzdRZlg0RDBBZHJRdzNBekpRcjJDV09HSTBWZW1USkJzVjJRWFJ4ZzBWc0RrTlNGQ2EySXBsb01pcGpQalVfa2NFc2RUbw?oc=5
+
+
+- **【专访】程实：人民币与美元罕见双强，“并驾异辙”背后是定价逻辑切换**  
+  摘要：程实认为人民币与美元出现罕见双强格局，背后反映的是定价逻辑的切换。  
+  来源：Jiemian.com  
+  链接：https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TWFk2ekRDeWkxTG43ekljUWFoWUpfWmk3TE8tRm5SblJjLXRQYlJ2Wk5obmhNUzZDUjUzR0hUVjNoS0NmSjBEQ0lTbVdBNHgzSllmZy1B?oc=5
+
+
+- **人民币汇率创4年新高！汇率风险管理需求飙升**  
+  摘要：人民币汇率创4年新高，企业和市场对汇率风险管理的需求大幅上升。  
+  来源：证券之星  
+  链接：https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CMThRdklxcXhlOGJBY1B5dC1RQW5UWG1Sem9NMU9qSzhIVm1nUTRwTWN4SVpyZVZQNDlMOXJoRFB5cDlrM0F1aGFzb2hDd1NicFZieVVHTmRjbXVydUJfSlN3?oc=5
+
+
+
+### 5. 黄金 / 原油
+
+
+- **伊朗战争爆发以来首次出台宽松政策，土耳其央行降息100基点**  
+  摘要：土耳其央行降息100个基点，为伊朗战争爆发以来首次宽松，通胀放缓和消费者信心减弱提供空间，但油价高企仍构成通胀上行风险。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001111174
+
+
+- **Trump called out Big Oil profits. Here's how much their refining earnings have surged since**  
+  摘要：特朗普批评大型石油公司利润过高，但此后随着燃料供应收紧，石油巨头炼油利润大幅增长。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html
+
+
+
+### 6. 宏观政策
+
+
+- **美国财政部提议收紧敏感领域对华投资监管**  
+  摘要：美国财政部提议限制对人工智能、高超音速武器与生物科技等敏感领域的对华投资。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001111179
+
+
+- **3.4%：美国经济第三季度年化增速超预期**  
+  摘要：美国第三季度年化经济增速达3.4%，高于第二季度的2.2%和华尔街预测的3.2%，AI支出热潮继续推动经济增长。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001111234
+
+
+- **伊朗战争爆发以来首次出台宽松政策，土耳其央行降息100基点**  
+  摘要：土耳其央行降息100个基点，为伊朗战争爆发以来首次宽松，通胀放缓和消费者信心减弱提供政策空间。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001111174
+
+
+
+### 7. AI 行业
+
+
+- **Meta拟发股筹集950亿美元AI投资资金**  
+  摘要：Meta计划通过发行股票筹集950亿美元用于AI投资，英伟达、AMD和博通将作为基石投资者支持这笔交易。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001111205
+
+
+- **OpenAI pares fundraising goal, now seeking up to $20 billion in latest round**  
+  摘要：OpenAI削减最新一轮融资目标，目前寻求最高200亿美元资金，该轮融资仍在进行中。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html
+
+
+- **South Korea targets 'world's highest performance' sovereign AI model in record new budget**  
+  摘要：韩国2027年预算增长12.8%至820.9万亿韩元，其中包括对半导体、物理AI和AI数据中心21.3万亿韩元的投资。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html
+
+
+- **Sam Altman makes surprise South Korea visit as OpenAI builds on chip partnerships**  
+  摘要：OpenAI CEO Sam Altman周末突访韩国，与三星高管会面，并据报道与SK集团高管会面。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/11/02/openai-sam-altman-samsung-sk-south-korea.html
+
+
+- **Why AI is boosting Meta's ad business while hurting Google search**  
+  摘要：最新季度Meta广告收入增长与谷歌搜索扩张之间的差距为2021年以来最大，AI对两者影响分化。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html
+
+
+- **Companies promised AI gains — here's how the payoff showed up in earnings**  
+  摘要：桑坦德、诺华等公司表示AI已开始提振收入、削减成本或改善盈利能力，投资者正寻求回报。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html
+
+
+- **Anthropic's path to the Nasdaq just got a lot bumpier**  
+  摘要：超大规模云厂商令人担忧的支出预测打压科技股，纳斯达克出现自3月以来首次三周连跌，Anthropic的上市之路更加坎坷。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html
+
+
+
+---
+
+## 四、今日关注
+
+1. Meta拟发股筹集950亿美元AI投资资金的进展及市场反应；2. 美国财政部对华敏感领域投资监管提议的后续细节；3. 美国科技股走势及纳斯达克三周连跌后的市场情绪变化；4. 人民币汇率走势及三大人民币汇率指数后续变动；5. 韩国AI预算投资落地及OpenAI与三星、SK等芯片合作进展。
+
+---
+
+## 五、风险提示
+
+本日报仅供信息参考，不构成投资建议。市场有风险，投资需谨慎。

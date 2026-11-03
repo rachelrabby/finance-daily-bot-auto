@@ -1,0 +1,234 @@
+# 每日财经日报
+
+日期：2026-11-03
+
+> 本日报由自动化程序根据公开新闻信息生成，并经 AI 摘要整理。  
+> 免责声明：本日报仅供信息参考，不构成任何投资建议。
+
+---
+
+## 一、今日重点摘要
+
+
+1. Meta拟发股筹集950亿美元AI投资资金，英伟达、AMD和博通将作为基石投资者支持
+
+2. 美国财政部提议收紧敏感领域对华投资监管，涉及人工智能、高超音速武器与生物科技等领域
+
+3. 美国经济第三季度年化增速3.4%超预期，AI支出热潮继续推动经济增长
+
+4. 人民币对美元延续偏强走势，三大人民币汇率指数回落
+
+5. 美联储计划减少利率投票频率，或影响借款人
+
+
+---
+
+## 二、市场概览
+
+| 板块 | 概览 |
+|---|---|
+| A股 | 公开信息不足，需继续关注。 |
+| 美股 | 美股方面，Meta拟发股筹集950亿美元AI投资资金；CNBC报道中期选举后标普500历史表现；VIX指数被期权交易员视为“反应迟钝”；多家企业发布财报，星巴克美国销售超预期但国际业务不及预期，联邦快递和UPS业绩超预期并上调指引，福特三季度业绩喜忧参半。 |
+| 港股 | 公开信息不足，需继续关注。 |
+| 汇率 / 外汇 | 人民币对美元延续偏强走势，三大人民币汇率指数回落；有报道称人民币兑美元年内升值超4%，人民币汇率创4年新高，汇率风险管理需求上升。 |
+| 黄金 / 原油 | 公开信息不足，需继续关注。 |
+| 宏观政策 | 美国财政部提议收紧敏感领域对华投资监管，拟议限制措施将影响人工智能、高超音速武器与生物科技等领域的美国对华投资；美联储计划减少利率投票频率。 |
+| AI 行业 | Meta拟发股筹集950亿美元AI投资资金，英伟达、AMD和博通作为基石投资者；美国财政部提议收紧AI等领域对华投资监管；OpenAI聘请前美国陆军部长担任国家安全职务；Anthropic报告第三季度收入170亿美元；Lumentum与Marvell达成大规模AI连接交易。 |
+
+---
+
+## 三、分类新闻
+
+### 1. A股
+
+
+
+### 2. 美股
+
+
+- **Meta拟发股筹集950亿美元AI投资资金**  
+  摘要：Meta计划通过发行股票筹集950亿美元用于AI投资，英伟达、AMD和博通将作为基石投资者支持这笔交易。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001111205
+
+
+- **Stock market after midterm elections: What S&P 500 history shows**  
+  摘要：CNBC报道中期选举后标普500的历史表现，并分析若民主党赢回国会可能对市场的影响。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html
+
+
+- **CNBC's The China Connection newsletter: Nvidia's humanoid push relies on China-made robot hands**  
+  摘要：英伟达人形机器人系统采用与中国有关联的初创公司制造的机械手。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/11/02/cnbcs-the-china-connection-newsletter-nvidias-humanoid-push-relies-on-china-made-robot-hands.html
+
+
+- **Wall Street's Fear Index is doing something strange. Here's what it means for stocks**  
+  摘要：VIX指数被期权交易员视为“反应迟钝”，CNBC分析其对股票的含义。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/11/02/wall-streets-fear-index-is-doing-something-strange-heres-what-it-means-for-stocks.html
+
+
+- **CrowdStrike lands an upgrade, and Jim Cramer's advice on Apple ahead of earnings**  
+  摘要：CrowdStrike获上调评级，Jim Cramer在苹果财报前给出建议。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/investingclub/2026/11/02/crowdstrike-lands-an-upgrade-and-jim-cramers-advice-on-apple-ahead-of-earnings.html
+
+
+- **Starbucks sales miss expectations, but its U.S. turnaround is gaining steam**  
+  摘要：星巴克美国门店同店销售超华尔街预期，但国际业务不及预期。  
+  来源：CNBC Business  
+  链接：https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html
+
+
+- **Cruise companies aim to keep fuel costs down. Their strategies for doing so differ**  
+  摘要：嘉年华削减燃料使用，皇家加勒比和挪威邮轮依靠对冲在中东冲突期间控制燃料成本。  
+  来源：CNBC Business  
+  链接：https://www.cnbc.com/2026/10/29/royal-caribbean-carnival-norwegian-fuel-costs.html
+
+
+- **FedEx beats expectations, raises outlook in first report since calendar adjustment**  
+  摘要：联邦快递第三季度业绩超华尔街预期，并上调展望。  
+  来源：CNBC Business  
+  链接：https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html
+
+
+- **Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year**  
+  摘要：福特第三季度盈利超预期但营收略不及预期，预计2027年盈利与今年持平。  
+  来源：CNBC Business  
+  链接：https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html
+
+
+- **GM will switch to Nasdaq from the NYSE on Nov. 17**  
+  摘要：通用汽车将于11月17日从纽交所转至纳斯达克上市，保留“GM”代码，股东无需行动。  
+  来源：CNBC Business  
+  链接：https://www.cnbc.com/2026/10/27/gm-nasdaq-nyse-stock-listing.html
+
+
+- **UPS beats quarterly expectations, raises full-year guidance again**  
+  摘要：UPS第三季度业绩超预期，并连续第二个季度上调全年指引。  
+  来源：CNBC Business  
+  链接：https://www.cnbc.com/2026/10/27/ups-ups-q3-2026-earnings.html
+
+
+
+### 3. 港股
+
+
+
+### 4. 汇率 / 外汇
+
+
+- **三大人民币汇率指数回落 人民币对美元延续偏强走势**  
+  摘要：三大人民币汇率指数回落，但人民币对美元延续偏强走势。  
+  来源：21财经  
+  链接：https://news.google.com/rss/articles/CBMijwFBVV95cUxOamJkd1R6UDBEek9NbmQ3WUh5RWFGanlSLXlORXg0dHBpQzBqQUdjZmljUW4wNVIyYWZMc2U2QThtQVBHN0ljN3lhXzdRZlg0RDBBZHJRdzNBekpRcjJDV09HSTBWZW1USkJzVjJRWFJ4ZzBWc0RrTlNGQ2EySXBsb01pcGpQalVfa2NFc2RUbw?oc=5
+
+
+- **人民币兑美元年内升值超4% 未来趋势如何演绎？**  
+  摘要：报道称人民币兑美元年内升值超4%，并讨论未来趋势。  
+  来源：东方财富  
+  链接：https://news.google.com/rss/articles/CBMiZkFVX3lxTE92WnN3QUlkQ0VtbVBybVdNU01GSG40eTNETW1LY1VqNmNSSl9WeWduZ1V5MmtOR1FpMjNSR2JCazdzSHNBN3ZZVTFIZ3N1d0hLcXFlWHdtMURxUmM3azNSbktfN2VUUQ?oc=5
+
+
+- **【专访】程实：人民币与美元罕见双强，“并驾异辙”背后是定价逻辑切换**  
+  摘要：程实认为人民币与美元罕见双强，背后是定价逻辑切换。  
+  来源：Jiemian.com  
+  链接：https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TWFk2ekRDeWkxTG43ekljUWFoWUpfWmk3TE8tRm5SblJjLXRQYlJ2Wk5obmhNUzZDUjUzR0hUVjNoS0NmSjBEQ0lTbVdBNHgzSllmZy1B?oc=5
+
+
+- **人民币汇率创4年新高！汇率风险管理需求飙升**  
+  摘要：人民币汇率创4年新高，汇率风险管理需求飙升。  
+  来源：证券之星  
+  链接：https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CMThRdklxcXhlOGJBY1B5dC1RQW5UWG1Sem9NMU9qSzhIVm1nUTRwTWN4SVpyZVZQNDlMOXJoRFB5cDlrM0F1aGFzb2hDd1NicFZieVVHTmRjbXVydUJfSlN3?oc=5
+
+
+- **三大人民币汇率指数全线上涨 人民币汇率重回6.8区间**  
+  摘要：三大人民币汇率指数全线上涨，人民币汇率重回6.8区间。  
+  来源：新浪网  
+  链接：https://news.google.com/rss/articles/CBMieEFVX3lxTFB6VEFyVVhPMGIteDA3MVFnWkVvMEFsRk5xWW83QXd5TFU4YzFacDlDbFU3NlFhemx1SU5waGdnTFlZYnNVRk0tWVVTbDQwM3Y5N3BMUzdDWnQtSEhaTDVWQ3hYZlJUUmVyTkR6OWREVEZwMjdnc3JXVQ?oc=5
+
+
+
+### 5. 黄金 / 原油
+
+
+
+### 6. 宏观政策
+
+
+- **美国财政部提议收紧敏感领域对华投资监管**  
+  摘要：美国财政部提议限制对华投资，涉及人工智能、高超音速武器与生物科技等领域。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001111179
+
+
+- **Fed will vote on rates less often. What that could mean for borrowers**  
+  摘要：美联储主席Kevin Warsh计划减少利率投票频率，经济学家认为可能延迟借款人获得缓解。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/11/02/fed-rate-votes-consumer-borrowing-costs.html
+
+
+
+### 7. AI 行业
+
+
+- **3.4%：美国经济第三季度年化增速超预期**  
+  摘要：美国第三季度年化增速3.4%，高于预期，AI支出热潮继续推动经济增长。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001111234
+
+
+- **Meta拟发股筹集950亿美元AI投资资金**  
+  摘要：Meta计划通过发行股票筹集950亿美元用于AI投资，英伟达、AMD和博通将作为基石投资者支持这笔交易。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001111205
+
+
+- **美国财政部提议收紧敏感领域对华投资监管**  
+  摘要：美国财政部提议限制对华投资，涉及人工智能、高超音速武器与生物科技等领域。  
+  来源：FT中文网  
+  链接：https://www.ftchinese.com/story/001111179
+
+
+- **OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role**  
+  摘要：OpenAI聘请前美国陆军部长Dan Driscoll担任新设立的国家安全职务，负责国家安全现代化。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/11/03/openai-hires-dan-driscoll-national-security.html
+
+
+- **Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1**  
+  摘要：Anthropic在修订后的S-1文件中报告第三季度收入170亿美元，购买承诺8954亿美元。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html
+
+
+- **Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell**  
+  摘要：Lumentum CEO称与Marvell的大规模AI连接交易带来“巨大”机遇，交易预计2028年上半年完成。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html
+
+
+- **Defense, healthcare, crypto and AI: How the midterm election could affect stocks**  
+  摘要：中期选举可能影响国防、医疗、加密货币和AI板块股票，民主党获胜可能带来更严格监管。  
+  来源：CNBC Markets  
+  链接：https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html
+
+
+
+---
+
+## 四、今日关注
+
+1. Meta拟发股筹集950亿美元AI投资资金的进展及市场反应。
+2. 美国财政部收紧敏感领域对华投资监管的后续政策动态。
+3. 美联储减少利率投票频率的影响及官员表态。
+4. 人民币汇率走势及外汇市场风险管理需求变化。
+5. 美国中期选举后政策预期对股市板块的影响。
+
+---
+
+## 五、风险提示
+
+本日报仅供信息参考，不构成投资建议。市场有风险，投资需谨慎。
